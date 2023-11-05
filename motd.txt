@@ -1,2 +1,3 @@
-Our team is well aware of the bugs causing random flying and jumpscares as a result of our last update. We are doing the best we can to fix it.
+Hey everyone, sorry for the major bug last week. We fixed it (probably) in this new update. Tag mode and Fluffy should work as intended now! Have fun playing!
+
 - Cricket (Owner)
