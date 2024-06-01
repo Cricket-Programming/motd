@@ -1,2 +1,20 @@
-Welcome to the Easter Update! Follow the trail of eggs. This update also includes quality of life and performance improvements. Let me know of any bugs.
+Update 5/31/24 B v0.50:
+FIXED a Bug where spawning did not happen when falling over some parts of the glass bridge
+CHANGED to subsampled layout to improve GPU Performance under Oculus Subsampled layout (Vulkan)
+CHANGED to Stereo Rendering Instancing; Stereo Rendering Mode: Multiview, changed from Multipass 
+IMPROVED Lighting
+Update 5/31/24 v0.49:
+LEGAL Capuchin Caverns is now part of MonkeyVision LLC.
+CHANGED disconnected yellow hand balls to a bright neon yellow.
+REMOVED Removed Easter Update.
+CHANGED Expanded Glass Bridge Map.
+CHANGED Updated PlayFab to 2.192.240412.
+CHANGED Updated Meta UPM Packages to 65.0.0.
+CHANGED Updated Photon Unity Networking.
+CHANGED Updated other systems.
+CHANGED Updated Unity Version from 2022.3.11 to 2022.3.31.
+CHANGED Active Input Handling and other settings.
+REMOVED XR Interaction Toolkit Presets.
+CHANGED Updated XR Interaction Toolkit to 3.0.3.
+FIXED Bug Fixes.
 - Cricket (Founder)
